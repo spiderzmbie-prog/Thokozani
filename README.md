@@ -1,4 +1,4 @@
-#North Region Contact Details
+North Region Contact Details
 
 Region: North
 
